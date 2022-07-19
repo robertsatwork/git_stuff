@@ -22,7 +22,26 @@ Be sure you understand Deloitte's and your project's / client's policies regardi
 
 
 [[_TOC_]]
-
+```
+# Overview
+## Disclaimer
+# Installation / Access instructions
+# Gitlab workflows & general best practices
+## Gitlab and Jupyter Notebooks
+# Command line instructions
+## Git global setup
+## Create a new local copy of a git repository
+## Always stay in sync with others: use `git fetch` or `git pull`
+## General process for updating files safely: Use *branches*
+### Variations on the branch checkout command
+## Adding and editing a file within a server environment
+## Adding file(s) to "stage" them for a commit, then commit, then push to remote
+## Merging your changes back into the main code
+## Merge conflicts
+### Preventing merge conflicts
+### Resolving merge conflicts
+### Nuke & restore
+```
 
 # Installation / Access instructions
 
