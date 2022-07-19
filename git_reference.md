@@ -1,4 +1,4 @@
-#### Git & GitLab Reference Guide
+# Git & GitLab Reference Guide
 
 ## Overview
 
