@@ -50,7 +50,7 @@ The concepts are analogous to GUI-based commands you'll find in git-centric appl
 even though the visual interface will be different.
 
 
-# Gtilab workflows & general best practices
+# Gitlab workflows & general best practices
 
 The gitlab website offers a means to view git repository files, edit in-browser, open issues and link to branches, submit and process merge requests, etc.
 It's a very user-friendly method of interacting with a git repository overall.
