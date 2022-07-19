@@ -2,9 +2,10 @@
 
 This list isn't complete! But it's a useful start.
 
-|Command  |Purpose  |
+|Command    |Purpose              |
 |:----------|:--------------------|
 
+|`ssh-keygen` | A handy command you might need to use to set up an SSH key to let you sync easily with a git repository like github.
 |`git` | Show a list of possible commands. This is like saying "Git, tell me what I can do!" |
 | `git config --list` | Show the configuration options git has encoded for your local system.|
 |`git clone <https or ssh URL>`| Copies the entire repository into your local environment (your computer or your server account). You typically wouldn't use this more than once per project.|
