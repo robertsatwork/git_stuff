@@ -1,7 +1,11 @@
 # Git Commands
 
+This list isn't complete! But it's a useful start.
+
 |Command  |Purpose  |
 |:----------|:--------------------|
+
+|`git` | Show a list of possible commands. This is like saying "Git, tell me what I can do!" |
 | `git config --list` | Show the configuration options git has encoded for your local system.|
 |`git clone <https or ssh URL>`| Copies the entire repository into your local environment (your computer or your server account). You typically wouldn't use this more than once per project.|
 |`git ls-remote --heads origin` | This command lists all branches on the remote machine (typically a central repo).|
@@ -20,4 +24,5 @@
 |`git commit -m "<insert commit message here>"` | This command commits the changes you've staged to the git tracking system. This commit is only stored locally, until it's pushed to the server. **Design your commit messages to be useful for others.** Your team (and future self) will thank you!|
 |`git push` | This command pushes the committed changes to server and will be available for everyone else to access. For the first push, you may need to use an expanded form: `git push --set-upstream origin <branch name>` |
 |`git push --force` | **Don't do this.** In a multi-user environment, this says "I don't care what you did while I wasn't looking. Make the files look like mine instead." |
+|`git merge <branch name>` | Merge the changes from a named branch into the branch you presently have checked out.|
 |`git branch -d <branch name>` | Remove local branch (do this after merging your branch.|
