@@ -15,7 +15,7 @@ and it acts as a central hub for a code repository (somewhat distinct from the c
 
 ## Disclaimer
 Be sure you understand Deloitte's and your project's / client's policies regarding the use of git before you use it for Deloitte-related work.
-* Clients might use GitLab, TFS, GitHub, or roll their own custom configuration based on git/mercurial/CVS, etc. They might have all manner of restrictions in place, or they might not know enough to instruct contractors how to use it wisely. Be prudent.
+* Clients might use GitLab, TFS, GitHub, or roll their own custom configuration based on git/mercurial/CVS, etc. They might have all manner of restrictions in place, or they might not know enough to instruct users how to use it wisely. Be prudent.
 * Deloitte has a locked down [GitHub group](https://developer.deloitte.com/enterprisecoderepository/) that you can apply for permission to use, subject to [restrictions](https://developer.deloitte.com/ecr-docs/rules/) including: 
   - Only source code for internal projects can be managed in GitHub. Source code developed for a specific client is not permitted.
   - Only GitHub user accounts with an active deloitte.* email address associated with them are permitted access to the ECR (i.e. outside collaborators are not permitted).
