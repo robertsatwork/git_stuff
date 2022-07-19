@@ -43,12 +43,6 @@ Be sure you understand Deloitte's and your project's / client's policies regardi
 ### Nuke & restore
 ```
 
-# Installation / Access instructions
-
-* Insert instructions link for Deloitte github
-* Insert instructions for installing gitbash (Windows)
-* Insert instructions for installing github app
-
 
 **Note:** Most comments below are written from a linux user's perspective, 
 but they should apply well to git bash usage on windows. 
