@@ -1,0 +1,1 @@
+Version control is a critical tool of the modern data scientist. But the most popular version control tool, git, has a confusing grammar and can require painful troubleshooting. Join a casual and conversational tour of git commands such as clone, fetch, merge, checkout, pull, add, commit, and push! No prerequisites required, and all questions are fair game.
